@@ -26,4 +26,11 @@ class people::keynodes {
       'mysql',
     ]:
   }
+
+  # GoogleJapaneseInput
+  package {
+    'GoogleJapaneseInput':
+      source => "http://dl.google.com/japanese-ime/latest/GoogleJapaneseInput.dmg",
+      provider => pkgdmg;
+  }
 }
