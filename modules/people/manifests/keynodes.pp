@@ -11,11 +11,8 @@ class people::keynodes {
   sublime_text_2::package { 'Emmet':
     source => 'sergeche/emmet-sublime'
   }
-  sublime_text_2::package { 'ConvertToUTF8':
-    source => 'seanliang/ConvertToUTF8'
-  }
 
-#  include iterm2
+  include iterm2::stable
   include skype
   include virtualbox
   include vagrant
