@@ -5,6 +5,7 @@ class people::keynodes {
   include evernote
   include firefox
   include chrome
+  include macvim_kaoriya
 
   # Sublime Text2
   include sublime_text_2

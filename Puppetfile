@@ -54,6 +54,6 @@ github "skype",           "1.0.6"
 github "virtualbox",      "1.0.7"
 github "vagrant",         "3.0.0"
 
-#github "macvim_kaoriya",  "1.0.0", :repo => "boxelly/puppet-macvim_kaoriya"
+github "macvim_kaoriya",  "1.0.0", :repo => "boxelly/puppet-macvim_kaoriya"
 #github "keyremap4macbook", "1.0.8"
 
