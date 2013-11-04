@@ -51,7 +51,7 @@ github "chrome",   "1.1.0"
 github "sublime_text_2",  "1.1.2"
 github "iterm2",          "1.0.3"
 github "skype",           "1.0.6"
-github "virtualbox",      "1.0.7"
+github "virtualbox",      "1.0.6"
 github "vagrant",         "3.0.0"
 
 github "macvim_kaoriya",  "1.0.0", :repo => "boxelly/puppet-macvim_kaoriya"
